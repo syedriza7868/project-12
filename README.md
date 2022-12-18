@@ -14,8 +14,8 @@
 
 - *It took me around 12 hours to complete the webpage.*
 
-# Live link of projects:
- [project 12]()
+
+# [Live project 12](https://teal-ganache-a76479.netlify.app/)
 
  ### Preview:
 
